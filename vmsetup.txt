@@ -1,0 +1,4 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+cinst cheatengine --version=7.1
+cinst x64dbg.portable
